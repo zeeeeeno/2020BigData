@@ -1,3 +1,3 @@
-# 2020BigData
+# BigData based on Bluemix
 
-블루믹스 기반 빅데이터 수업 과제 제출방
+블루믹스 기반 빅데이터
